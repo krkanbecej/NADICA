@@ -463,6 +463,10 @@ ol.type li a:hover {
 	padding: 0 10px;
 	font-size: 15px;
 }
+/* video sekcija */
+#video{
+	padding: 120px 0 80px 0;
+}
 /* Call Reservation Section */
 #call-reservation {
 	padding: 90px 0;
