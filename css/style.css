@@ -8,7 +8,7 @@ body, html {
 	height: 100% !important;
 }
 h2 {
-	margin: 0 0 20px 0;
+	margin: 0 0 12px 0;
 	font-weight: 500;
 	font-size: 34px;
 	color: #333;
@@ -70,7 +70,7 @@ ul, ol {
 	moz-padding: 0;
 }
 hr {
-	height: 3px;
+	height: 5px;
 	width: 90px;
 	text-align: center;
 	position: relative;
