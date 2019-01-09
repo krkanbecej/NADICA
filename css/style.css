@@ -244,32 +244,32 @@ header .intro-text {
 
 
 /* Menu Section */
-#restaurant-menu {
+#radovi {
 	padding: 0 0 60px 0;
 	background-color: #eef1f3;
 }
-#restaurant-menu .section-title {
+#radovi .section-title {
 	background: #444 url(../img/menu-bg.jpg) center center no-repeat fixed;
 	background-size: cover;
 }
-#restaurant-menu .section-title h2 {
+#radovi .section-title h2 {
 	color: #fff;
 }
-#restaurant-menu img {
+#radovi img {
 	width: 300px;
 	box-shadow: 15px 0 #a7c44c;
 }
-#restaurant-menu h3 {
+#radovi h3 {
 	padding: 10px 0;
 	text-transform: uppercase;
 }
-#restaurant-menu .menu-section hr {
+#radovi .menu-section hr {
 	margin: 0 auto;
 }
-#restaurant-menu .menu-section {
+#radovi .menu-section {
 	margin: 0 20px 80px;
 }
-#restaurant-menu .menu-section-title {
+#radovi .menu-section-title {
 	font-size: 26px;
 	display: block;
 	font-weight: 500;
@@ -277,21 +277,21 @@ header .intro-text {
 	margin: 20px 0;
 	text-align: center;
 }
-#restaurant-menu .menu-item {
+#radovi .menu-item {
 	margin: 35px 0;
 	font-size: 18px;
 }
-#restaurant-menu .menu-item-name {
+#radovi .menu-item-name {
 	font-weight: 600;
 	font-size: 17px;
 	color: #555;
 	border-bottom: 2px dotted rgb(213, 213, 213);
 }
-#restaurant-menu .menu-item-description {
+#radovi .menu-item-description {
 	font-style: italic;
 	font-size: 15px;
 }
-#restaurant-menu .menu-item-price {
+#radovi .menu-item-price {
 	float: right;
 	font-weight: 600;
 	color: #555;
@@ -477,25 +477,25 @@ ol.type li a:hover {
  background-color: #eef1f3;
 }
 /* Call Reservation Section */
-#call-reservation {
+#pozovite {
 	padding: 90px 0;
 	color: #fff;
 	background-color: #939393;
 }
-#call-reservation .overlay {
+#pozovite .overlay {
 	padding: 80px 0;
 	background: #8eb640;
 }
-#call-reservation h2 {
+#pozovite h2 {
 	font-family: 'Open Sans', sans-serif;
 	color: #e2dbff;
 	font-weight: 400;
 	margin: 0;
 }
-#call-reservation hr {
+#pozovite hr {
 	background: #fff;
 }
-#call-reservation h3 {
+#pozovite h3 {
 	color: #fff;
 	font-weight: 500;
 	font-size: 20px;
